@@ -1,0 +1,1108 @@
+{
+  "source_root": "E:\\BaiduNetdiskDownload\\002",
+  "method": "CSV file order; collapse adjacent equal Device_Time values; detect any value returning after intervening different values. Processed copies counted separately. No sorting.",
+  "summary": {
+    "002": {
+      "files": 56,
+      "sessions": 28,
+      "samples_including_processed_copy": 3056080,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0
+    },
+    "004": {
+      "files": 52,
+      "sessions": 26,
+      "samples_including_processed_copy": 2138234,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0
+    }
+  },
+  "files": [
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\BulbRotate\\001_002_BulbRotate_001_20260812_181230\\windows\\01_emg_aligned.csv",
+      "sample_count": 80740,
+      "timestamp_run_count": 6729,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\BulbRotate\\001_002_BulbRotate_001_20260812_181230\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 80740,
+      "timestamp_run_count": 6729,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\BulbRotate\\002_002_BulbRotate_002_20260812_181527\\windows\\01_emg_aligned.csv",
+      "sample_count": 57564,
+      "timestamp_run_count": 4797,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\BulbRotate\\002_002_BulbRotate_002_20260812_181527\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 57564,
+      "timestamp_run_count": 4797,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\BulbRotate\\003_002_BulbRotate_003_20260812_181813\\windows\\01_emg_aligned.csv",
+      "sample_count": 45991,
+      "timestamp_run_count": 3833,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\BulbRotate\\003_002_BulbRotate_003_20260812_181813\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 45991,
+      "timestamp_run_count": 3833,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\DoubleTap\\001_002_DoubleTap_001_20260812_172921\\windows\\01_emg_aligned.csv",
+      "sample_count": 67488,
+      "timestamp_run_count": 5624,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\DoubleTap\\001_002_DoubleTap_001_20260812_172921\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 67488,
+      "timestamp_run_count": 5624,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\DoubleTap\\002_002_DoubleTap_002_20260812_173214\\windows\\01_emg_aligned.csv",
+      "sample_count": 48732,
+      "timestamp_run_count": 4061,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\DoubleTap\\002_002_DoubleTap_002_20260812_173214\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 48732,
+      "timestamp_run_count": 4061,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\DoubleTap\\003_002_DoubleTap_003_20260812_173421\\windows\\01_emg_aligned.csv",
+      "sample_count": 44354,
+      "timestamp_run_count": 3697,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\DoubleTap\\003_002_DoubleTap_003_20260812_173421\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 44354,
+      "timestamp_run_count": 3697,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\HandMix\\001_002_HandMix_001_20260812_182457\\windows\\01_emg_aligned.csv",
+      "sample_count": 44835,
+      "timestamp_run_count": 3737,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\HandMix\\001_002_HandMix_001_20260812_182457\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 44835,
+      "timestamp_run_count": 3737,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\HandMix\\002_002_HandMix_002_20260812_182714\\windows\\01_emg_aligned.csv",
+      "sample_count": 48396,
+      "timestamp_run_count": 4033,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\HandMix\\002_002_HandMix_002_20260812_182714\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 48396,
+      "timestamp_run_count": 4033,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\HandMix\\003_002_HandMix_003_20260812_183108\\windows\\01_emg_aligned.csv",
+      "sample_count": 47196,
+      "timestamp_run_count": 3933,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\HandMix\\003_002_HandMix_003_20260812_183108\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 47196,
+      "timestamp_run_count": 3933,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\HandMix\\004_002_HandMix_004_20260812_183427\\windows\\01_emg_aligned.csv",
+      "sample_count": 47888,
+      "timestamp_run_count": 3990,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\HandMix\\004_002_HandMix_004_20260812_183427\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 47888,
+      "timestamp_run_count": 3990,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\MoveA\\001_002_MoveA_001_20260812_184020\\windows\\01_emg_aligned.csv",
+      "sample_count": 45623,
+      "timestamp_run_count": 3802,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\MoveA\\001_002_MoveA_001_20260812_184020\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 45623,
+      "timestamp_run_count": 3802,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\MoveB\\002_002_MoveB_002_20260812_184428\\windows\\01_emg_aligned.csv",
+      "sample_count": 95085,
+      "timestamp_run_count": 7924,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\MoveB\\002_002_MoveB_002_20260812_184428\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 95085,
+      "timestamp_run_count": 7924,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\MoveC\\001_002_MoveC_001_20260812_184730\\windows\\01_emg_aligned.csv",
+      "sample_count": 52348,
+      "timestamp_run_count": 4363,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\MoveC\\001_002_MoveC_001_20260812_184730\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 52348,
+      "timestamp_run_count": 4363,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\Pinch\\001_002_Pinch_001_20260812_172329\\windows\\01_emg_aligned.csv",
+      "sample_count": 47329,
+      "timestamp_run_count": 3945,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\Pinch\\001_002_Pinch_001_20260812_172329\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 47329,
+      "timestamp_run_count": 3945,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\Pinch\\002_002_Pinch_002_20260812_172556\\windows\\01_emg_aligned.csv",
+      "sample_count": 60841,
+      "timestamp_run_count": 5071,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\Pinch\\002_002_Pinch_002_20260812_172556\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 60841,
+      "timestamp_run_count": 5071,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\Pinch\\005_002_Pinch_005_20260812_170752\\windows\\01_emg_aligned.csv",
+      "sample_count": 59057,
+      "timestamp_run_count": 4921,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\Pinch\\005_002_Pinch_005_20260812_170752\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 59057,
+      "timestamp_run_count": 4921,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\PinchMix\\002_002_PinchMix_002_20260812_174257\\windows\\01_emg_aligned.csv",
+      "sample_count": 52560,
+      "timestamp_run_count": 4380,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\PinchMix\\002_002_PinchMix_002_20260812_174257\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 52560,
+      "timestamp_run_count": 4380,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\PinchMix\\003_002_PinchMix_003_20260812_174602\\windows\\01_emg_aligned.csv",
+      "sample_count": 52981,
+      "timestamp_run_count": 4416,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\PinchMix\\003_002_PinchMix_003_20260812_174602\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 52981,
+      "timestamp_run_count": 4416,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\PinchMix\\004_002_PinchMix_004_20260812_174814\\windows\\01_emg_aligned.csv",
+      "sample_count": 46537,
+      "timestamp_run_count": 3879,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\PinchMix\\004_002_PinchMix_004_20260812_174814\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 46537,
+      "timestamp_run_count": 3879,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\PressFive\\001_002_PressFive_001_20260812_175056\\windows\\01_emg_aligned.csv",
+      "sample_count": 49813,
+      "timestamp_run_count": 4152,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\PressFive\\001_002_PressFive_001_20260812_175056\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 49813,
+      "timestamp_run_count": 4152,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\PressFive\\002_002_PressFive_002_20260812_175413\\windows\\01_emg_aligned.csv",
+      "sample_count": 62262,
+      "timestamp_run_count": 5189,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\PressFive\\002_002_PressFive_002_20260812_175413\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 62262,
+      "timestamp_run_count": 5189,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\PressFive\\003_002_PressFive_003_20260812_175647\\windows\\01_emg_aligned.csv",
+      "sample_count": 53669,
+      "timestamp_run_count": 4473,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\PressFive\\003_002_PressFive_003_20260812_175647\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 53669,
+      "timestamp_run_count": 4473,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\SingleTap\\003_002_SingleTap_003_20260812_165717\\windows\\01_emg_aligned.csv",
+      "sample_count": 47208,
+      "timestamp_run_count": 3930,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\SingleTap\\003_002_SingleTap_003_20260812_165717\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 47208,
+      "timestamp_run_count": 3930,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\SingleTap\\004_002_SingleTap_004_20260812_165952\\windows\\01_emg_aligned.csv",
+      "sample_count": 52968,
+      "timestamp_run_count": 4413,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\SingleTap\\004_002_SingleTap_004_20260812_165952\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 52968,
+      "timestamp_run_count": 4413,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\SingleTap\\005_002_SingleTap_005_20260812_170238\\windows\\01_emg_aligned.csv",
+      "sample_count": 65549,
+      "timestamp_run_count": 5463,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\SingleTap\\005_002_SingleTap_005_20260812_170238\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 65549,
+      "timestamp_run_count": 5463,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\TweezerScrew\\001_002_TweezerScrew_001_20260812_180104\\windows\\01_emg_aligned.csv",
+      "sample_count": 49293,
+      "timestamp_run_count": 4108,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\TweezerScrew\\001_002_TweezerScrew_001_20260812_180104\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 49293,
+      "timestamp_run_count": 4108,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\TweezerScrew\\002_002_TweezerScrew_002_20260812_180420\\windows\\01_emg_aligned.csv",
+      "sample_count": 52245,
+      "timestamp_run_count": 4354,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\TweezerScrew\\002_002_TweezerScrew_002_20260812_180420\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 52245,
+      "timestamp_run_count": 4354,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\TweezerScrew\\003_002_TweezerScrew_003_20260812_180810\\windows\\01_emg_aligned.csv",
+      "sample_count": 49488,
+      "timestamp_run_count": 4124,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "002",
+      "file": "E:\\BaiduNetdiskDownload\\002\\002\\TweezerScrew\\003_002_TweezerScrew_003_20260812_180810\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 49488,
+      "timestamp_run_count": 4124,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\BulbRotate\\001_004_BulbRotate_001_20260916_215328\\windows\\01_emg_aligned.csv",
+      "sample_count": 52680,
+      "timestamp_run_count": 4390,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\BulbRotate\\001_004_BulbRotate_001_20260916_215328\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 52680,
+      "timestamp_run_count": 4390,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\BulbRotate\\002_004_BulbRotate_002_20260916_220519\\windows\\01_emg_aligned.csv",
+      "sample_count": 44029,
+      "timestamp_run_count": 3670,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\BulbRotate\\002_004_BulbRotate_002_20260916_220519\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 44029,
+      "timestamp_run_count": 3670,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\BulbRotate\\003_004_BulbRotate_003_20260916_220730\\windows\\01_emg_aligned.csv",
+      "sample_count": 40647,
+      "timestamp_run_count": 3388,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\BulbRotate\\003_004_BulbRotate_003_20260916_220730\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 40647,
+      "timestamp_run_count": 3388,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\DoubleTap\\001_004_DoubleTap_001_20260916_202624\\windows\\01_emg_aligned.csv",
+      "sample_count": 41888,
+      "timestamp_run_count": 3491,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\DoubleTap\\001_004_DoubleTap_001_20260916_202624\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 41888,
+      "timestamp_run_count": 3491,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\DoubleTap\\002_004_DoubleTap_001_20260916_203121\\windows\\01_emg_aligned.csv",
+      "sample_count": 37212,
+      "timestamp_run_count": 3099,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\DoubleTap\\002_004_DoubleTap_001_20260916_203121\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 37212,
+      "timestamp_run_count": 3099,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\DoubleTap\\003_004_DoubleTap_003_20260916_203614\\windows\\01_emg_aligned.csv",
+      "sample_count": 19848,
+      "timestamp_run_count": 1654,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\DoubleTap\\003_004_DoubleTap_003_20260916_203614\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 19848,
+      "timestamp_run_count": 1654,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\HandMix\\002_004_HandMix_002_20260918_195504\\windows\\01_emg_aligned.csv",
+      "sample_count": 33768,
+      "timestamp_run_count": 2813,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\HandMix\\002_004_HandMix_002_20260918_195504\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 33768,
+      "timestamp_run_count": 2813,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\HandMix\\003_004_HandMix_003_20260918_200116\\windows\\01_emg_aligned.csv",
+      "sample_count": 46464,
+      "timestamp_run_count": 3872,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\HandMix\\003_004_HandMix_003_20260918_200116\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 46464,
+      "timestamp_run_count": 3872,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\MoveA\\001_004_MoveA_001_20260917_211756\\windows\\01_emg_aligned.csv",
+      "sample_count": 39144,
+      "timestamp_run_count": 3261,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\MoveA\\001_004_MoveA_001_20260917_211756\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 39144,
+      "timestamp_run_count": 3261,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\MoveB\\001_004_MoveB_001_20260917_213352\\windows\\01_emg_aligned.csv",
+      "sample_count": 55469,
+      "timestamp_run_count": 4623,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\MoveB\\001_004_MoveB_001_20260917_213352\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 55469,
+      "timestamp_run_count": 4623,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\MoveC\\001_004_MoveC_001_20260918_201849\\windows\\01_emg_aligned.csv",
+      "sample_count": 43632,
+      "timestamp_run_count": 3636,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\MoveC\\001_004_MoveC_001_20260918_201849\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 43632,
+      "timestamp_run_count": 3636,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\Pinch\\001_004_Pinch_001_20260916_191220\\windows\\01_emg_aligned.csv",
+      "sample_count": 41244,
+      "timestamp_run_count": 3437,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\Pinch\\001_004_Pinch_001_20260916_191220\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 41244,
+      "timestamp_run_count": 3437,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\Pinch\\002_004_Pinch_002_20260915_212109\\windows\\01_emg_aligned.csv",
+      "sample_count": 47964,
+      "timestamp_run_count": 3997,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\Pinch\\002_004_Pinch_002_20260915_212109\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 47964,
+      "timestamp_run_count": 3997,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\Pinch\\003_004_Pinch_003_20260916_201018\\windows\\01_emg_aligned.csv",
+      "sample_count": 43017,
+      "timestamp_run_count": 3585,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\Pinch\\003_004_Pinch_003_20260916_201018\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 43017,
+      "timestamp_run_count": 3585,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\PinchMix\\001_004_PinchMix_001_20260916_204011\\windows\\01_emg_aligned.csv",
+      "sample_count": 21647,
+      "timestamp_run_count": 1804,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\PinchMix\\001_004_PinchMix_001_20260916_204011\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 21647,
+      "timestamp_run_count": 1804,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\PinchMix\\002_004_PinchMix_002_20260916_205401\\windows\\01_emg_aligned.csv",
+      "sample_count": 35388,
+      "timestamp_run_count": 2949,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\PinchMix\\002_004_PinchMix_002_20260916_205401\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 35388,
+      "timestamp_run_count": 2949,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\PinchMix\\003_004_PinchMix_003_20260916_205700\\windows\\01_emg_aligned.csv",
+      "sample_count": 46824,
+      "timestamp_run_count": 3902,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\PinchMix\\003_004_PinchMix_003_20260916_205700\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 46824,
+      "timestamp_run_count": 3902,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\PressFive\\001_004_PressFive_001_20260916_210420\\windows\\01_emg_aligned.csv",
+      "sample_count": 44233,
+      "timestamp_run_count": 3687,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\PressFive\\001_004_PressFive_001_20260916_210420\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 44233,
+      "timestamp_run_count": 3687,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\PressFive\\002_004_PressFive_002_20260916_210607\\windows\\01_emg_aligned.csv",
+      "sample_count": 43296,
+      "timestamp_run_count": 3608,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\PressFive\\002_004_PressFive_002_20260916_210607\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 43296,
+      "timestamp_run_count": 3608,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\PressFive\\003_004_PressFive_003_20260916_211744\\windows\\01_emg_aligned.csv",
+      "sample_count": 38713,
+      "timestamp_run_count": 3226,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\PressFive\\003_004_PressFive_003_20260916_211744\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 38713,
+      "timestamp_run_count": 3226,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\SingleTap\\001_004_SingleTap_001_20260916_201713\\windows\\01_emg_aligned.csv",
+      "sample_count": 46632,
+      "timestamp_run_count": 3886,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\SingleTap\\001_004_SingleTap_001_20260916_201713\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 46632,
+      "timestamp_run_count": 3886,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\SingleTap\\002_004_SingleTap_002_20260916_201930\\windows\\01_emg_aligned.csv",
+      "sample_count": 44772,
+      "timestamp_run_count": 3731,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\SingleTap\\002_004_SingleTap_002_20260916_201930\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 44772,
+      "timestamp_run_count": 3731,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\SingleTap\\003_004_SingleTap_003_20260916_202117\\windows\\01_emg_aligned.csv",
+      "sample_count": 46188,
+      "timestamp_run_count": 3849,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\SingleTap\\003_004_SingleTap_003_20260916_202117\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 46188,
+      "timestamp_run_count": 3849,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\TweezerScrew\\001_004_TweezerScrew_001_20260916_213459\\windows\\01_emg_aligned.csv",
+      "sample_count": 32994,
+      "timestamp_run_count": 2750,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\TweezerScrew\\001_004_TweezerScrew_001_20260916_213459\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 32994,
+      "timestamp_run_count": 2750,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\TweezerScrew\\002_004_TweezerScrew_002_20260916_213833\\windows\\01_emg_aligned.csv",
+      "sample_count": 42120,
+      "timestamp_run_count": 3508,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\TweezerScrew\\002_004_TweezerScrew_002_20260916_213833\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 42120,
+      "timestamp_run_count": 3508,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\TweezerScrew\\003_004_TweezerScrew_003_20260916_214655\\windows\\01_emg_aligned.csv",
+      "sample_count": 39304,
+      "timestamp_run_count": 3276,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    },
+    {
+      "subject": "004",
+      "file": "E:\\BaiduNetdiskDownload\\002\\004\\TweezerScrew\\003_004_TweezerScrew_003_20260916_214655\\windows\\04_emg_gui_processed.csv",
+      "sample_count": 39304,
+      "timestamp_run_count": 3276,
+      "nonconsecutive_repeat_count": 0,
+      "regression_count": 0,
+      "A_B_A_count": 0,
+      "examples": []
+    }
+  ],
+  "unavailable_sessions": [
+    "E:/BaiduNetdiskDownload/002/004/HandMix/001_004_HandMix_001_20260917_204412 (windows/01_emg_aligned.csv missing)"
+  ],
+  "conclusion": "All 54 sessions with EMG records have zero nonconsecutive timestamp returns and zero regressions. One additional session has no EMG CSV and cannot be assessed. This observation does not prove timestamp returns can never occur."
+}

@@ -1,0 +1,4 @@
+# Third-party Windows SDKs and model binaries are stored with Git LFS.
+vendor/**/*.dll filter=lfs diff=lfs merge=lfs -text
+vendor/**/*.pyd filter=lfs diff=lfs merge=lfs -text
+vendor/**/*.onnx filter=lfs diff=lfs merge=lfs -text
